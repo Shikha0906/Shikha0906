@@ -1,38 +1,75 @@
-# 💫 Hi 👋, I'm Shikha Sharma
-**A passionate Software Development || Data Analyst **
+![logo](https://github.com/Shikha0906/Shikha0906/blob/main/ChatGPT%20Image%20Jul%2018%2C%202026%2C%2008_17_02%20AM.png)
+<h1 align="center">Hi 👋, I'm Shikha Sharma</h1>
+<h3 align="center">**A passionate Software Development || Data Analyst **</h3>
 
-Email Me 👉 ✉️ **shikhasharmaj2005@gmail.com** For Collaboration/Project together or Anything Else , growing together. 😊😊
+<img src="https://github.com/Shikha0906/Shikha0906/blob/main/WhatsApp%20Video%202026-07-18%20at%208.40.39%20AM.gif" width="400" aling="right"/>
 
-- 🔭 **I’m currently working on:** building my skills, enhancing my knowledge of Python, Java, and Software Development by working on practical projects
-- 🌱 **I’m currently learning:** Advanced SQL, and Data Analysis techniques to strengthen my analytical skills
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shikha0906&label=Profile%20views&color=0e75b6&style=flat" alt="shikha0906" /> </p>
 
+🔭 **I'm currently working on:**
+🔹 Building real-world projects in Python and Java
+🔹 Strengthening my Software Development skills through hands-on practice
+🔹 Enhancing problem-solving and coding abilities by solving DSA challenges
 
-  ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shikha0906&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+🌱 **I'm currently learning:**
+🔹 HTML & CSS for Frontend Development
+🔹 SQL for Database Management
+🔹 Data Analysis techniques to strengthen my analytical and problem-solving skills
+
+- 👨‍💻 All of my projects are available at [https://github.com/Shikha0906](https://github.com/Shikha0906)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/imshikha09/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shikhasharmaj2005@gmail.com) 
+<h2 align="center"> 🔗 Connect with me </h2>
 
-<!-- Snake Game Repo View -->
+<p align="center">
+<a href="https://www.linkedin.com/in/imshikha09">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<a href="https://leetcode.com/u/imshikha_09/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/users/imshikha_09">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/shikhasharmaj2005">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shikha0906&theme=react-dark&hide_border=true" />
+</p>
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<h2 align="center">🚀 Languages & Tools</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,mysql,aws,azure,vercel,netlify,figma,git,github&perline=7" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=adobexd&logoColor=FF61F6"/>
+</p>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Shikha0906&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Shikha0906&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shikha0906&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shikha0906&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shikha0906&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
+</p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote"/>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shikha0906&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Shikha0906&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
